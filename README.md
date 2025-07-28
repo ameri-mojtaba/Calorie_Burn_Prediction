@@ -60,7 +60,7 @@ The final model, built with carefully selected features, demonstrated a high lev
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your GitHub Repository Link]
+    git clone https://github.com/ameri-mojtaba/Calorie_Burn_Prediction
     ```
 2.  **Install the dependencies:**
     ```bash
