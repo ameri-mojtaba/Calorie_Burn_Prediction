@@ -64,11 +64,7 @@ The final model, built with carefully selected features, demonstrated a high lev
     ```bash
     git clone https://github.com/ameri-mojtaba/Calorie_Burn_Prediction
     ```
-2.  **Install the dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run the Jupyter Notebook:**
+2.  **Run the Jupyter Notebook:**
     Open and run the `Predict_Calorie.ipynb` notebook to see the full analysis and model training process.
 
 ---
