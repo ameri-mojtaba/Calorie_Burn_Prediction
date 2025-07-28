@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-![](Images/Software.gif)
+<img src="Images/Software.gif" width="300">
 
 This project focuses on predicting the amount of calories burned during a physical exercise session. The primary goal is to demonstrate how to build an accurate and efficient machine learning model by leveraging powerful algorithms like **XGBoost** and employing effective feature selection techniques such as **RandomForestRegressor + Permutation Importance**.
 
