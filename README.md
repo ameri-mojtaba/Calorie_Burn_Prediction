@@ -80,3 +80,8 @@ The final model, built with carefully selected features, demonstrated a high lev
 * XGBoost
 * Matplotlib
 * Seaborn
+
+## 🤝 Connect with me 🤝
+📎 LinkedIn 
+
+https://www.linkedin.com/in/mojtaba-ameri/
